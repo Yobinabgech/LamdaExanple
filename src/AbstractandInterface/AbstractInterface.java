@@ -18,3 +18,5 @@ public class AbstractInterface extends InterfaceExpl implements InterfaceExpl2 {
         System.out.println("This is First Address");
     }
 }
+
+
